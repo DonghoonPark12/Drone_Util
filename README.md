@@ -1,6 +1,6 @@
 ## Drone_Util
 
-### Our Mission : Best drone utility company for customer
+### Our Mission : Best drone utility company for customer with various purposes
 
 
 ### 1. Prerequisite
