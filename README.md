@@ -14,8 +14,8 @@
 - 
 
 ### 3. [Basic] Waypoint flight & Autonomous Landing
-- [Eng] A flight that patrols a specific, designated area
-- [Kor] 지정 영역 비행 혹은 순찰
+- [Eng] A flight that patrols a specific, designated area and land autonomously
+- [Kor] 지정 영역 비행 혹은 순찰 과 자동 착륙
 
 
 ### 4. [Intermidiate] Object Detection & Tracking
@@ -26,15 +26,19 @@
 
 ### 7. [Hard] Structure from motion, 3D Scanning
 
-
+     
+   
 ## ▣ Materials
 
 ### 100. Data
   - [Indoor Data]()
+  - Outdoor Data
 
 ### 101. Seminar
 
 ### 102. Forum
 
 ### 103. DroneLab
+
+### 104. Simulation
 
