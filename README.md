@@ -19,8 +19,8 @@
 
 ### 4. [Intermidiate] Object Detection & Tracking
 
+### 5. [Hard] Simultaneously Localization and Mapping(SLAM)
 
-### 5. [Intermidiate] Autonomous Obstacle Avoidance
+### 6. [Hard] Autonomous Obstacle Avoidance
 
-
-### 6. [Hard] Structure from motion, 3D Scanning
+### 7. [Hard] Structure from motion, 3D Scanning
